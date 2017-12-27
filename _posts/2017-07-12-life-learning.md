@@ -189,7 +189,7 @@ R的翻轉教室是一套完整的R中文教學教材，依照網站上的引導
 										</div>
 
 									<div id="tab12">
-										  <p><strong>08</strong></p>
+										  <a href="https://www.ted.com"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/ted.jpg" width="50%"></a>
 											<p>TED的宗旨是「Spread Ideas」，希望透過演講，分享不同的思考方式，並藉此改變人們對世界的看法、反思自身的的行為。演講的主題廣泛，包含科技、娛樂、設計、經濟、教育、國際議題...等。你可以尋找你所喜歡、所關心的議題，從中獲取新知識，提升自我各方面的素養。
 TED的演講主要以英文為主，大部分會附上英文或中文字幕，不妨是個練習聽力的好機會喔!
 </p>
