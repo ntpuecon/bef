@@ -62,11 +62,11 @@ ul li a.current{
 #A p{
 	margin-top:20px;
 	line-height:2em;
-	color:#C15757;
+	color:#666666;
 }
 
 #A strong{
-	font-size:4em;
+	font-size:2em;
 	font-weight:bold;
-	color:#D6AF62;
+	color:#444444;
 }
