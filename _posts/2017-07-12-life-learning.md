@@ -108,7 +108,7 @@ Oooooops!<br>
 </p>
 			</div>
 			<div id="tab2">
-			  <p><strong>這邊要做圖片連結</strong></p>
+			  <a href="https://hahow.in/?ev=hxr17g&gclid=EAIaIQobChMIv5iAmKW72AIVjjUrCh1rvwSsEAAYASAAEgJwcfD_BwE"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/Howhow.png" width="50%"></a>
 			  <p>早上學習架設網站，下午學會手沖咖啡，晚上當DJ順便練練Beatbox。新時代跨領域募資學習平台，讓你輕鬆在網路上找到來自不同領域的老師。隨時隨地，無限次觀看與學習，方便、多元、易上手，想學甚麼，現在就動手去挖掘！
 
 Hahow的募資課程只要報名人數達標即開課，並提供完善的互動機制，每堂課有專屬的作業和討論區，讓你隨時和同學及老師交流，收穫多更多‼
@@ -117,14 +117,14 @@ Hahow的募資課程只要報名人數達標即開課，並提供完善的互動
 </p>
 			</div>
 			<div id="tab3">
-			  <p><strong>圖片連結</strong></p>
+			  <a href="http://www.cyc.org.tw/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/JGT.jpg" width="50%"></a>
 			  <p>如果要找便宜又有一定師資保障的課程，那救國絕對是首選，有考證照需求的人也多半會選擇救國團的專業技能課程。
 
 除了專業訓練課程，救國團每年開設各式各樣的特色營隊，其中夏令營及冬令營也總是吸引許多懷抱著目標青年人參加。或許是一趟熱血的單車環台之旅、又或是文化技藝體驗的洗禮，救國團讓你完成任務的過程中學習解決問題的能力，一步一步完成人生清單上每個目標。
 </p>
 			</div>
 			<div id="tab4">
-			  <p><strong>04</strong></p>
+			  <a href="http://ocw.aca.ntu.edu.tw/ntu-ocw/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/NTUMOOC.PNG" width="50%"></a>
 			  <p>身為臺灣學術資源最豐富的龍頭學校，臺灣大學不忘提供社會大眾另一種校園外的進修方式，文、法、理工、生農醫衛等面向的課程等待閱聽者的挖掘，以期培養自身對陌生領域的好奇心，進而在心中種下了一顆待發芽的種子，隨著更深入的探索而成長茁壯。
 
 此網站整合近7年來的部分台大課程(以每學期大約十門的速度更新)，挑選不同面向主題釋出資源(包含各系特色學科、專業課程、共同必修與通識教育課程)，同時也會提供教材與講義，閱聽者可根據個人規劃安排學習進度。
@@ -133,7 +133,7 @@ Hahow的募資課程只要報名人數達標即開課，並提供完善的互動
 </p>
 			</div>
 			<div id="tab5">
-			  <p><strong>05</strong></p>
+			 <a href="https://www.xuetangx.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/CHINAMOOC.PNG" width="50%"></a>
 				<p>隨著大環境的變動，面對現今社會所需要的能力不再侷限於課堂所學，更多跨領域實力的人才均逐漸嶄露頭角，為了給予有心自學者更便捷的管道，弭平資源分配不均的困境，越來越多免費的線上自學平台興起，以下要介紹的就是中國的知名MOOC平台。
 
 學堂在線可選擇以微博、QQ或是微信登入，完善郵箱資訊後即可上課，資源範圍與師資十分多元，介面操作簡單明瞭。根據學習主題有計畫地每周更新課程，輔以作業與測驗提升課程參與度，並可透過討論區發問解惑。
@@ -141,7 +141,7 @@ Hahow的募資課程只要報名人數達標即開課，並提供完善的互動
 由於是中國的網頁，些許用詞或許與臺灣學生慣用的不同，但如此豐富的學習資源是有心學習者不容錯過的一個好選擇。</p>
 				</div>
 				<div id="tab6">
-				  <p><strong>06</strong></p>
+				  <a href="https://www.darencademy.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/DRX.PNG" width="50%"></a>
 					<p>人生是由一連串未知的選擇所建構，成長的路上勢必得開始學習考量各種選擇的機會成本、在探索興趣的過程中判斷利與弊，逐漸增加自身對於生命厚度的體會。因此，你更不能錯過以下推薦的網站，學習用大人的角度看懂人生各類賽局。
 
 有別於常見的自學平台，大人學偏向以專欄文章、課程與講座資源為主，由於創辦者是專案管理諮詢顧問，不同於流於空泛的內容農場文章，專欄文章中分析、決策、計畫的性質比較重，希望能提供讀者不一樣的思維訓練。
@@ -150,12 +150,12 @@ Hahow的募資課程只要報名人數達標即開課，並提供完善的互動
 </p>
 					</div>
 					<div id="tab7">
-					  <p><strong>07</strong></p>
+					  <a href="https://www.yourator.co/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/Yourator.png" width="50%"></a>
 						<p>所謂“learning by doing”,是在對知識擁有了一定的認識之後，通過親手操作對它進行更熟練的運用。在實踐的過程中發現知識學習的問題並進行解決，通過不同的實習專案探索自我新的可能，使學習更加有意義。
 yourator新創職涯平臺網站，致力於幫助實習生找到心儀的實習工作。網站推薦的實習工作不僅按照職業種類劃分明確，還開設了推薦公司的欄目，並附有詳細的公司介紹，方便查閱，對於想找到實習的同學來說是一個不錯的選擇。</p>
 						</div>
 						<div id="tab8">
-						  <p><strong>08</strong></p>
+						 <a href="https://novoed.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/NovoED.png" width="50%"></a>
 							<p>
 許多人在初入大學時都不知道自己最終將會從事什麼職業，剛剛步入社會也不確定自己的職業選擇是否適合。不過所謂“書中自有黃金屋”，在開始之前不知道自己將要專注從事於哪個方面也無傷大雅。秉持著學習有用的態度，可以尋找有興趣的課程充實自身。
 NovoED網站由斯坦福大學建立，目前有70多門課程開設，在內容上更加專注於商業課程。部分課程收費，價格在149、249和999美元三個價位。課程帶有英文字幕，方便觀看。
@@ -163,7 +163,7 @@ NovoED認為一個學生與其他人協作完成項目也是學習和經歷的�
 </p>
 							</div>
 							<div id="tab9">
-							  <p><strong>08</strong></p>
+							  <a href="https://www.imooc.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/imooc.png" width="50%"></a>
 								<p>
 作為21世紀最流行的尖端產業，IT行業從事者在整個社會都有很大量的需求。學習IT不只是為了高薪資和高社會地位，對於個人融入整個社會潮流，成為推動社會發展的動力也有極大的意義。
 網站來自北京慕課科技中心，秉承著“開拓、創新、公平、分享”的精神將互聯網特性全面應用在教育領域，致力於打造一站式互動線上教育品牌。網站課程涵蓋各種電腦技術，整體介面規劃整潔，資訊檢索方便，除線上講授、實戰和職業路徑課程外，還提供學員相互交流的平臺。其中部分課程收費，提供更深度的教學品質。
@@ -171,7 +171,7 @@ NovoED認為一個學生與其他人協作完成項目也是學習和經歷的�
 								</div>
 
 								<div id="tab10">
-								  <p><strong>08</strong></p>
+								 <a href="https://www.codecademy.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/codecademy.png" width="50%"></a>
 									<p>當我們的生活走向數位化，一切的事物都以手機、電腦作為媒介，若希望在未來能夠活用這些應用，則必須了解其背後運作的原理—程式語言。程式語言將會是你把「想法」轉換成「行動」的重要工具，不論你是希望創業，或是創造自己在職場上的附加價值，程式語言都將是你未來不可或缺的能力。
 									Codecademy是一個涵蓋多種程式語言的教學網站，有別於其他「只能用眼睛看著學」的教學方式，Codecademy致力於提升網站內的學習體驗，你可以在Codecademy中選擇喜歡的領域，接著他將為你規劃一系列程式課程，在學習的過程中，你可以在網站中依照指示「邊做邊學」，同時也可以馬上看到自己的錯誤，這將大大的提高你的學習品質。
 目前Codecademy所提供的課程共五大類，包含「網站開發」、「資料科學」、「程式設計」、「合作關係」、「介面設計」。你將會在這些課程中學會7種程式語言。且一切由淺入深，非常適合初學者學習。
@@ -181,7 +181,7 @@ NovoED認為一個學生與其他人協作完成項目也是學習和經歷的�
 									</div>
 
 									<div id="tab11">
-									  <p><strong>08</strong></p>
+									  <a href="http://datascienceandr.org/install.html"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/R.png" width="50%"></a>
 										<p>資料採集便利的時代，無時無刻，資料都悄悄地被記錄下來，大量資料的時代來臨，誰能從龐如大海的資料中尋找線索、分析問題，誰便將在未來的時代掌握優勢。
 R語言是用來進行統計分析、繪圖、數據探勘的程式語言，若想成為資料分析的專家，這套語言將會是首要學習的工具。
 R的翻轉教室是一套完整的R中文教學教材，依照網站上的引導進行下載、註冊後，同學們便可以在自己的電腦中透過這份教材，以R學R；同時，教材中也提供了許多實作的機會，你將在學習的過程中不斷嘗試、不斷提升自己R語言的實力。
@@ -189,14 +189,14 @@ R的翻轉教室是一套完整的R中文教學教材，依照網站上的引導
 										</div>
 
 									<div id="tab12">
-										  <a href="https://www.ted.com"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/ted.jpg" width="50%"></a>
+										  <a href="https://www.ted.com"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/TED.png" width="50%"></a>
 											<p>TED的宗旨是「Spread Ideas」，希望透過演講，分享不同的思考方式，並藉此改變人們對世界的看法、反思自身的的行為。演講的主題廣泛，包含科技、娛樂、設計、經濟、教育、國際議題...等。你可以尋找你所喜歡、所關心的議題，從中獲取新知識，提升自我各方面的素養。
 TED的演講主要以英文為主，大部分會附上英文或中文字幕，不妨是個練習聽力的好機會喔!
 </p>
 											</div>			
 
 											<div id="tab13">
-											  <p><strong>08</strong></p>
+											  <a href="https://www.fluentu.com/"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/FluentU.png" width="50%"></a>
 												<p>在國際化的時代，身為全球公民的一份子，外語能力不僅人人不可或缺，在社會多元化發展下，培養語言能力以放眼國際趨勢，更是不容小覷，FluentU上提供你多種免費外語資源，讓想學外語的人透過一條方便又省錢的途徑，開啟另一個世界的鑰匙。
 透過影片來學習語言吧！網站上不僅提供各式各樣、給不同語言程度學習者的影片當作習題，如：小短片、電影預告、新聞、表演......等，現在有西文、法文、中文、德文、日文、英文等教學。FluentU使用真實的英語視頻，例如熱門的談話節目、新聞和有趣的YouTube剪輯短片，為您提供有趣的英語口語體驗，每個影片都配置了互動式的英文字幕，可查看影片裏自己不懂的任何單字或片語的定義和發音，您不僅可以自然地學英文，還可以用母語人士真正使用英文的方式來練習說英語。
 此外，FluentU應用程式最好的優點之一是能夠記錄用戶學習的進步情況，以及根據正在學習的進度給予建議。如果喜歡視聽學習，並希望學習英文口說也可以很有趣又好玩，那麽下載FluentU app就是最適合的選擇。
@@ -204,7 +204,7 @@ TED的演講主要以英文為主，大部分會附上英文或中文字幕，�
 												</div>				
 
 												<div id="tab14">
-													<p><strong>08</strong></p>
+													<a href="http://www.myoops.org/universities.php?id=4"><img style="display:block; margin:auto" src="{{site.url}}{{site.baseurl}}/assets/img/OOPS.PNG" width="50%"></a>
 													<p>在數位化的科技時代，知識的傳遞無遠弗屆，在打破地域、時間、環境的限制，伴隨著網路科技時代的學習日益創新，進而逐漸考驗著個人時間管理的能力。除了學校課程的教授，現今國際化強勢來襲下，國外開放式課程更是引起諸多好學子弟的興趣，而在基礎語言差異下，如何有效地輕易上手的學習，以下介紹OOPS此平台為將大家一探究竟。自我時間的管理日益重要
 
 OOPS全名是Opensource Opencourseware Prototype System，是本國內最早引入開放式課程的先驅，除此之外，更是針對國際知名大學開放式課程提供多種語言翻譯，如：麻省理工學院的線上中文課程等，這種翻譯工作因為打破了原先語言的隔閡，而備受國際媒體關注，被視為是一種優秀的課程國際化、普及化推廣方案。</p>

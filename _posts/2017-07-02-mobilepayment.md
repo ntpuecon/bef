@@ -20,15 +20,13 @@ tag: [經濟前瞻議題, 行動支付]
 --------------------------------------------------------------------------------------------------------------
 關於行動支付的小影片:
 
->簡單介紹行動支付及其優缺點:https://www.youtube.com/watch?v=fDWZs1IfJ48
+>[簡單介紹行動支付及其優缺點](https://www.youtube.com/watch?v=fDWZs1IfJ48)
 
->Apple pay是如何運作的:https://www.youtube.com/watch?v=ksFXEY6P_ec
+>[Apple pay是如何運作](https://www.youtube.com/watch?v=ksFXEY6P_ec)
 
->中國的行動支付運作發展:https://www.youtube.com/watch?v=-Cx0lFYq-q4
+>[中國的行動支付運作發展](https://www.youtube.com/watch?v=-Cx0lFYq-q4)
 
 
 關於行動支付更深入文章:
 
->關於四大行動支付詳談:https://technews.tw/2017/06/01/top-4-mobile-pay-in-tw/
-
->了解行動支付間的差異:https://technews.tw/2017/06/15/mobile-wallet-issues/
+>[關於四大行動支付詳談](https://technews.tw/2017/06/01/top-4-mobile-pay-in-tw/)
