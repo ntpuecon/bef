@@ -2,7 +2,7 @@
 layout: post
 title: "不怕被邊緣，只怕沒資源"
 img:
-tag: [創意集資, 沒人愛你, 可是我愛你]
+tag: [創意集資, dreammaker , 秀出來]
 ---
 
 大家好，這裡是鴨肉。
